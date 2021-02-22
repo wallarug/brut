@@ -12,7 +12,7 @@ ii.  Choose a mining pool
 
 
 
-3.  Download Eth Miner [https://github.com/nanopool/Claymore-Dual-Miner/releases](Claymore Duel)
+3.  Download Eth Miner [https://github.com/Claymore-Dual/Claymore-Dual-Miner](Claymore Duel)
 
 
 
