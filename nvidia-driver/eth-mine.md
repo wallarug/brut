@@ -1,5 +1,7 @@
 ## Eth Mining Software Setup
 
+WIP
+
 Pre-req:
 i.  Set up a wallet
 ii.  Choose a mining pool
@@ -17,3 +19,5 @@ ii.  Choose a mining pool
 
 
 4.  Configure Miner and Mine!
+
+
