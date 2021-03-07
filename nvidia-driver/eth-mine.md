@@ -14,6 +14,13 @@ NOTE:  It appears that Ubuntu 20.04 automatically installs and configures the NV
 
 To update the driver:  `sudo apt install nvidia-driver-460`
 
+Option 2: Manual From Run File:
+
+```
+sudo apt install gcc make
+```
+
+
 ## Install CUDA 11.2+
 
 Option 1: Download the latest CUDA package from the NVIDIA website.  You may need to use a non-linux computer to get the link.  Then you can use wget to download the program.  Make sure to chmod 755 the CUDA run file.
