@@ -26,9 +26,14 @@ sudo apt install gcc
 
 #### Post Install
 
-Add the cuda directory to path and Add the Library LD path to bashrc
+Add the cuda directory to path and Add the Library LD path to .bashrc
 
-
+```
+## For CUDA
+export PATH=$PATH:/usr/local/cuda-11.2/bin
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-11.2/lib64
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-11.2/lib
+```
 
 
 ## Download Eth Miner [https://github.com/Claymore-Dual/Claymore-Dual-Miner](Claymore Duel)
