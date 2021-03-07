@@ -59,6 +59,7 @@ Each needs their own configuration file and has their own setups.
 - gdm service stopped (give about 0.5 MH/s performance boost)
 
 | Claymore Duel | Phoenix Miner | Ethminer |
+|--|--|--|
 |  | 36.1 MH/s | 35.57 MH/s |
 
 
