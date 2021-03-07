@@ -46,8 +46,10 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-11.2/lib
 ## Download Eth Miner
 
 * Claymore Duel Miner [here](https://github.com/Claymore-Dual/Claymore-Dual-Miner):  Has a 1% dev fee
-* 
+* Phoenix Miner [here](https://phoenixminer.org/):  Has a 0.65% dev fee
+* Ethminer [here](https://github.com/ethereum-mining/ethminer):  Has no dev fee
 
+Each needs their own configuration file and has their own setups.
 
 
 ## Configure Miner and Mine!
