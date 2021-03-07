@@ -54,4 +54,13 @@ Each needs their own configuration file and has their own setups.
 
 ## Configure Miner and Mine!
 
+- Testing with RTX 2070 Super (Averages)
+- Room Temp:  24 degrees (AC on, Window Open)
+- gdm service stopped (give about 0.5 MH/s performance boost)
+
+| Claymore Duel | Phoenix Miner | Ethminer |
+|  | 36.1 MH/s | 35.57 MH/s |
+
+
+
 
