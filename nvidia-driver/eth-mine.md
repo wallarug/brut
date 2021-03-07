@@ -43,7 +43,10 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-11.2/lib
 ```
 
 
-## Download Eth Miner [https://github.com/Claymore-Dual/Claymore-Dual-Miner](Claymore Duel)
+## Download Eth Miner
+
+* Claymore Duel Miner [here](https://github.com/Claymore-Dual/Claymore-Dual-Miner):  Has a 1% dev fee
+* 
 
 
 
