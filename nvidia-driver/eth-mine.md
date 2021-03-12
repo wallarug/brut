@@ -62,6 +62,9 @@ Each needs their own configuration file and has their own setups.
 |--|--|--|
 | 36.095 MH/s | 36.103 MH/s | 35.57 MH/s |
 
+## Card Expected Rates
 
+3090 - 105 MH/s (120+ MH/s with mods)
+3070 - 50 MH/s (60+ MH/s with mods)
 
 
