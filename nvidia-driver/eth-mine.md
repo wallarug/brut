@@ -68,3 +68,12 @@ Each needs their own configuration file and has their own setups.
 3070 - 50 MH/s (60+ MH/s with mods)
 
 
+## Set Up SSH
+
+1.  Generate key pair
+2.  Put Public Key into ./ssh/authorized_keys
+3.  chmod 600 ./ssh/authorized_keys
+4.  chown user:user ./ssh/authorized_keys
+5.  Edit the file /etc/ssh/sshd_config to contain `PasswordAuthentication no` and `ChallengeResponseAuthentication no`
+6.  Restart SSH:  `sudo systemctl restart ssh`
+
