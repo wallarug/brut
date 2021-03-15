@@ -77,3 +77,7 @@ Each needs their own configuration file and has their own setups.
 5.  Edit the file /etc/ssh/sshd_config to contain `PasswordAuthentication no` and `ChallengeResponseAuthentication no`
 6.  Restart SSH:  `sudo systemctl restart ssh`
 
+
+## Mods for Cards
+
+On Windows:  use MSI afterburner.  Set the Card Frequency to 1200 MHz.  Set the Memory to +250 or higher depending on cooling.  100 degrees is the stable temp.
