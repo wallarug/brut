@@ -5,6 +5,7 @@ WIP
 **Pre-req:**
 
 i.  Set up a wallet
+
 ii.  Choose a mining pool
 
 
