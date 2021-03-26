@@ -2,6 +2,10 @@
 
 WIP
 
+## TODO
+
+* work out modding GPU speeds
+
 **Pre-req:**
 
 i.  Set up a wallet
